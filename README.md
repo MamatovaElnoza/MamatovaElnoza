@@ -12,7 +12,7 @@ I'm **Elnoza** (choyxor_girl) ✨
 ---
 
 ## 🌟 Featured Projects
-- [Cool Project 1](https://github.com/MamatovaElnoza/Project1)  
+- [Cool Project 1](https://github.com/MamatovaElnoza/Responsive-Admin-Dashboard)  
 - [Cool Project 2](https://github.com/MamatovaElnoza/Project2)  
 
 
