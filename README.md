@@ -11,20 +11,6 @@ I'm **Elnoza** (choyxor_girl) ✨
 
 ---
 
-## 🌟 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MamatovaElnoza&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MamatovaElnoza&layout=compact&theme=radical)
-
----
-
-## 🎨 Fun GIFs
-
-<img src="https://media.giphy.com/media/j2mYIV79wi5TU/giphy.gif" width="300">
-
----
-
 ## 🌟 Featured Projects
 - [Cool Project 1](https://github.com/MamatovaElnoza/Project1)  
 - [Cool Project 2](https://github.com/MamatovaElnoza/Project2)  
