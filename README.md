@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MamatovaElnoza/MamatovaElnoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Elnoza** (choyxor_girl) ✨  
+🔭 I’m currently working on: `Movie Website`  
+🌱 I’m learning: JavaScript, React, Python  
+💬 Ask me about: Web development or random tech stuff!  
+📫 Reach me at: mamatovaelnoza@gmail.com  
+⚡ Fun fact: I can debug better than I can cook 🍳
 
-Here are some ideas to get you started:
+## 🌟 My Top Projects
+- [Project 1](https://github.com/MamatovaElnoza/Project1)  
+- [Project 2](https://github.com/MamatovaElnoza/Project2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ Check out my GitHub profile for more cool stuff!
