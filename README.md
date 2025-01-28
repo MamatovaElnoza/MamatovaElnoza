@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Elnoza** (choyxor_girl) ✨  
-🔭 I’m currently working on: `[Movie Website](https://github.com/MamatovaElnoza/MovieApp)`  
+🔭 I’m currently working on: ' [Movie Website](https://github.com/MamatovaElnoza/MovieApp) '
 🌱 I’m learning: JavaScript, React, Python  
 💬 Ask me about: Web development or random tech stuff!  
 📫 Reach me at: mamatovaelnoza@gmail.com  
