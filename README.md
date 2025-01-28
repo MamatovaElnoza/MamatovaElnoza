@@ -13,7 +13,7 @@ I'm **Elnoza** (choyxor_girl) ✨
 
 ## 🌟 Featured Projects
 - [Cool Project 1](https://github.com/MamatovaElnoza/Responsive-Admin-Dashboard)  
-- [Cool Project 2](https://github.com/MamatovaElnoza/Project2)  
+- [Cool Project 2](https://github.com/MamatovaElnoza/Lamoda)  
 
 
 📫 **Let’s Connect:** [My LinkedIn](https://linkedin.com/in/elnoza-mamatova-6122a8328)  
