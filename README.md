@@ -15,7 +15,6 @@ I'm **Elnoza** (choyxor_girl) ✨
 - [Cool Project 1](https://github.com/MamatovaElnoza/Project1)  
 - [Cool Project 2](https://github.com/MamatovaElnoza/Project2)  
 
----
 
 📫 **Let’s Connect:** [My LinkedIn](https://linkedin.com/in/elnoza-mamatova-6122a8328)  
 
