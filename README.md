@@ -2,7 +2,7 @@
 
 I'm **Elnoza** (choyxor_girl) ✨  
 🔭 I’m currently working on: ' [Movie Website](https://github.com/MamatovaElnoza/movie-app) '        
-🌱 I’m learning: JavaScript, React, Python  
+🌱 I’m learning: ReactJS, NextJS, NodeJS  
 💬 Ask me about: Web development or random tech stuff!  
 📫 Reach me at: mamatovaelnoza@gmail.com  
 ⚡ Fun fact: I can debug better than I can cook 🍳 
