@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Elnoza** (choyxor_girl) ✨  
-🔭 I’m currently working on: ' [Movie Website](https://github.com/MamatovaElnoza/movie-app) '        
+🔭 I’m currently working on: ' [Movie Website](https://github.com/MamatovaElnoza/mood-tracker.git) '        
 🌱 I’m learning: ReactJS, NextJS, NodeJS  
 💬 Ask me about: Web development or random tech stuff!  
 📫 Reach me at: mamatovaelnoza@gmail.com  
