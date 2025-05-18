@@ -4,7 +4,7 @@ I'm **Elnoza** (choyxor_girl) ✨
 🔭 I’m currently working on: ' [Mood Tracker](https://github.com/MamatovaElnoza/mood-tracker.git) '        
 🌱 I’m learning: ReactJS, NextJS, NodeJS  
 💬 Ask me about: Web development or random tech stuff!  
-📫 Reach me at: [My LinkedIn](https://www.linkedin.com/in/elnoza-mamatova-6122a8328)   
+📫 Reach me at: [my LinkedIn](https://www.linkedin.com/in/elnoza-mamatova-6122a8328)   
 ⚡ Fun fact: I can debug better than I can cook 🍳 
 
 ![HTML](https://img.shields.io/badge/Code-HTML-orange) ![CSS](https://img.shields.io/badge/Style-CSS-blue) ![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow)
